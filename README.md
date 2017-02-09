@@ -1,2 +1,3 @@
 # Portfolio
-Portfolio for my work fom college
+Portfolio for my work from college
+Soon to be full fledge website of my work
